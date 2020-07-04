@@ -43,7 +43,7 @@ It is launched on a machine with
 * **64**Gb of RAM
 * **250**Gb of SSD 
 * **1**Gbp/s download
-* **6**ms ping with Google and ~**10**ms with [Discord](https://discord.com), *it’s beautiful 😎*
+* **6**ms ping with [Google](https://google.com) and ~**10**ms with [Discord](https://discord.com), *it’s beautiful 😎*
 
 ### Who is its creator?
 It’s actually **me**, **the one** who writes **this description**, **[Freiik](https://freiik.com)**. I designed from **A** *to* **Z [VoltBot](https://voltbot.xyz)** and **recruited qualified developers** who help me regularly.
